@@ -47,11 +47,3 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
 35. Discuss the importance of security awareness training. 
 36. Practice the terminology and review concepts of network operations.
 
-**Star Geographical Distribution**
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=565290801&activity=stars" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=565290801&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Star Geographical Distribution of cyberfascinate/ISC2-CC-Study-Material" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=565290801&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
